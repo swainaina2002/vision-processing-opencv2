@@ -1,6 +1,6 @@
 import cv2
 
-
+x=2
 color = (255, 255, 0)
 
 # add our cascade 
